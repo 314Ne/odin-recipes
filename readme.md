@@ -1,0 +1,1 @@
+I am building a basic receipe website. I created a git repository and cloned it to my machine.  
